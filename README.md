@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aan-maryanto
-- 👀 I’m interested in Java Developer, Python Developer, Backend Engineer, and Data Scientist
-- 🌱 I’m currently learning Data Science using python 
+- 👀 I’m interested in Java Developer, Python Developer, Backend Engineer (Java Springboot, Golang), Frontend Engineer(ReactJS, Angular), Mobile Engineer and Data Science.
+- 🌱 I’m currently learning Golang on udemy
 - 💞️ I’m looking to collaborate on Data science
 - 📫 How to reach me maryanto.aan@gmail.com
 
